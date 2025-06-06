@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "187325"         # 用户名
 UUID = "94d9782e-ffcb-4a7b-aab0-0e488f1fc6c6"                     # UUID，留空则自动生成
 PORT = 49998                   # Vmess端口，留空或0则自动生成9
-DOMAIN = "kk.veles.dpdns.or"                   # 域名，留空则自动获取
+DOMAIN = "kk.veles.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiYjdjMjY4ZWUzOWFhZTMxNjllNGRlZDIzMjFmNDBlZTIiLCJ0IjoiMzA5MTk0ZmQtYTYzOS00M2Y0LTkzMGMtYjc0YzUzOTcxYTUzIiwicyI6IlpURTFPV1EwT0RndFlqWXdPQzAwTkRRMUxUbGxZamt0WkRNd1lqYzNNVEEyWmpVdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
