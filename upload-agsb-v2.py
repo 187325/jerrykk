@@ -33,9 +33,9 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "187325"         # 用户名
 UUID = "94d9782e-ffcb-4a7b-aab0-0e488f1fc6c6"                     # UUID，留空则自动生成
-PORT = 49998                   # Vmess端口，留空或0则自动生成9
+PORT = 49997                   # Vmess端口，留空或0则自动生成9
 DOMAIN = "kk.veles.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiYjdjMjY4ZWUzOWFhZTMxNjllNGRlZDIzMjFmNDBlZTIiLCJ0IjoiMzA5MTk0ZmQtYTYzOS00M2Y0LTkzMGMtYjc0YzUzOTcxYTUzIiwicyI6IlpURTFPV1EwT0RndFlqWXdPQzAwTkRRMUxUbGxZamt0WkRNd1lqYzNNVEEyWmpVdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiYjdjMjY4ZWUzOWFhZTMxNjllNGRlZDIzMjFmNDBlZTIiLCJ0IjoiZWZmNGMzNWEtMTE3YS00ZmI2LWE3YmYtNTFiODYyMjFhYTA0IiwicyI6Ik1EUTRObUV6Tm1FdE1qQmhZaTAwT1RZekxUZzRNR1F0TWpOaU5qRTNOVEl4TW1GaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
